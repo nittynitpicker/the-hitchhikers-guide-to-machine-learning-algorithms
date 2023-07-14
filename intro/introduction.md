@@ -12,7 +12,7 @@ Machine learning is changing the world as we know it.&#x20;
 
 From predicting stock market trends and diagnosing diseases to powering the virtual assistants in our smartphones and enabling self-driving cars, and picking up the slack on your online dating conversations.
 
-So we thought it was a great time to build a resources where you can understand a little bit about what's going on - even if you don't plan to work "in the field" - because it will affect your life regardless.
+So we thought it was a great time to build a resource where you can understand a little bit about what's going on - even if you don't plan to work "in the field" - because it will affect your life regardless.
 
 Unless you're a part of one of those tribes that hadn't even had outside contact until a couple years ago... in which case you probably aren't considering reading this book anyways.
 
